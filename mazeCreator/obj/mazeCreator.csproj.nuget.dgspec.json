@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\mazeCreator.csproj": {}
+    "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\mazeCreator.csproj": {}
   },
   "projects": {
-    "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\mazeCreator.csproj": {
+    "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\mazeCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\mazeCreator.csproj",
+        "projectUniqueName": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\mazeCreator.csproj",
         "projectName": "mazeCreator",
-        "projectPath": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\mazeCreator.csproj",
+        "projectPath": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\mazeCreator.csproj",
         "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
-        "outputPath": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\obj\\",
+        "outputPath": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

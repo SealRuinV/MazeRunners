@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Vssave\\mazeCreator\\",
+  "WorkspaceRootPath": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|d:\\vssave\\mazecreator\\mazecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|d:\\college\\coding\\maze runners\\mazecreator\\mazecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|solutionrelative:mazecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|d:\\vssave\\mazecreator\\mazecreator\\fichas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|d:\\college\\coding\\maze runners\\mazecreator\\mazecreator\\fichas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDE2D5B-0390-4028-9879-71EBAF19B922}|mazeCreator\\mazeCreator.csproj|solutionrelative:mazecreator\\fichas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,19 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Fichas.cs",
-              "DocumentMoniker": "D:\\Vssave\\mazeCreator\\mazeCreator\\Fichas.cs",
+              "DocumentMoniker": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\Fichas.cs",
               "RelativeDocumentMoniker": "mazeCreator\\Fichas.cs",
-              "ToolTip": "D:\\Vssave\\mazeCreator\\mazeCreator\\Fichas.cs",
+              "ToolTip": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\Fichas.cs",
               "RelativeToolTip": "mazeCreator\\Fichas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Vssave\\mazeCreator\\mazeCreator\\Program.cs",
+              "DocumentMoniker": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\Program.cs",
               "RelativeDocumentMoniker": "mazeCreator\\Program.cs",
-              "ToolTip": "D:\\Vssave\\mazeCreator\\mazeCreator\\Program.cs",
+              "ToolTip": "D:\\College\\Coding\\Maze Runners\\mazeCreator\\mazeCreator\\Program.cs",
               "RelativeToolTip": "mazeCreator\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T20:00:25.844Z",
               "EditorCaption": ""
