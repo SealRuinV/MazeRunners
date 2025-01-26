@@ -1,0 +1,14 @@
+D:\Vssave\mazeCreator\mazeCreator\bin\Debug\net8.0\mazeCreator.exe
+D:\Vssave\mazeCreator\mazeCreator\bin\Debug\net8.0\mazeCreator.deps.json
+D:\Vssave\mazeCreator\mazeCreator\bin\Debug\net8.0\mazeCreator.runtimeconfig.json
+D:\Vssave\mazeCreator\mazeCreator\bin\Debug\net8.0\mazeCreator.dll
+D:\Vssave\mazeCreator\mazeCreator\bin\Debug\net8.0\mazeCreator.pdb
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.AssemblyInfoInputs.cache
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.AssemblyInfo.cs
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.csproj.CoreCompileInputs.cache
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.dll
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\refint\mazeCreator.dll
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.pdb
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.genruntimeconfig.cache
+D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\ref\mazeCreator.dll
