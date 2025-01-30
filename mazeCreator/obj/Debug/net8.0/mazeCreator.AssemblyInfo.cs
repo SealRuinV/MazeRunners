@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mazeCreator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b10d024bf10165e669b99a29debfc4b921246ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31543b1fe728b29b06d077e3c7abf0bbf6688921")]
 [assembly: System.Reflection.AssemblyProductAttribute("mazeCreator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mazeCreator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

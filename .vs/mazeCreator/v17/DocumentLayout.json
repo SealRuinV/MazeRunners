@@ -18,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\Program.cs",
+              "RelativeDocumentMoniker": "mazeCreator\\Program.cs",
+              "ToolTip": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\Program.cs*",
+              "RelativeToolTip": "mazeCreator\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:00:25.844Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,21 +42,10 @@
               "RelativeDocumentMoniker": "mazeCreator\\Fichas.cs",
               "ToolTip": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\Fichas.cs",
               "RelativeToolTip": "mazeCreator\\Fichas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T21:04:56.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\Program.cs",
-              "RelativeDocumentMoniker": "mazeCreator\\Program.cs",
-              "ToolTip": "D:\\College\\Coding\\Maze Runners\\github\\MazeRunners\\mazeCreator\\Program.cs",
-              "RelativeToolTip": "mazeCreator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:00:25.844Z",
+              "WhenOpened": "2025-01-26T21:04:56.198Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

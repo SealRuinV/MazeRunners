@@ -12,3 +12,18 @@ D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\refint\mazeCreator.dll
 D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.pdb
 D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\mazeCreator.genruntimeconfig.cache
 D:\Vssave\mazeCreator\mazeCreator\obj\Debug\net8.0\ref\mazeCreator.dll
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\bin\Debug\net8.0\mazeCreator.exe
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\bin\Debug\net8.0\mazeCreator.deps.json
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\bin\Debug\net8.0\mazeCreator.runtimeconfig.json
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\bin\Debug\net8.0\mazeCreator.dll
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\bin\Debug\net8.0\mazeCreator.pdb
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.AssemblyInfoInputs.cache
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.AssemblyInfo.cs
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.csproj.CoreCompileInputs.cache
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.sourcelink.json
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.dll
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\refint\mazeCreator.dll
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.pdb
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\mazeCreator.genruntimeconfig.cache
+D:\College\Coding\Maze Runners\github\MazeRunners\mazeCreator\obj\Debug\net8.0\ref\mazeCreator.dll
