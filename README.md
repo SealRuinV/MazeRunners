@@ -1,1 +1,2 @@
-
+- clone the rep
+- run it on terminal
